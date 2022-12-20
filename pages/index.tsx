@@ -9,7 +9,7 @@ import Checkbox from "@mui/material/Checkbox"
 import styled from "styled-components"
 
 const inter = Inter({ subsets: ["latin"] })
-
+ 
 const Form = styled.form`
   border: 1px solid #d6e4e5;
   border-radius: 10px;
